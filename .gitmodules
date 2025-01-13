@@ -1,0 +1,3 @@
+[submodule "kong-plugin-moesif"]
+	path = kong-plugin-moesif
+	url = https://github.com/Moesif/kong-plugin-moesif.git
